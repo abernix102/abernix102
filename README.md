@@ -19,25 +19,6 @@
 </div>  
 <br/>
 
-<h2>Sobre mi</h2>
-<p>
-  Soy una persona apasionada por el aprendizaje, sobre todo lo que implica desafíos de lógica. Por eso mismo, decidí integrarme en el mundo del Desarrollo y aunque mi formación es como Full Stack, tengo una preferencia hacia el área de Front-End. Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas para poder desarrollar aún más mis habilidades e incrementar mis conocimientos.
-  
-  <h4>Me gusta</h4>
-  <p>
-    -El frío ❄ <br/>
-    -El mate 🧉 <br/>
-    -Leer 📚
-  </p>
-  <h4>Hobbies</h4>
-  <p>
-    -Sudoku ⌛ <br/>
-    -Ajedrez ♟ <br/>
-    -Guitarra 🎸
-  </p>
-</p>
-<br/>
-
 <h2>About me</h2>
 <p>
   I am a passionate learner, especially when it comes to logic challenges. That's why I decided to immerse myself in the world of Development, and although my background is in Full Stack, I have a preference for Front-End. Currently, I continue to educate myself on new technologies in both areas to further develop my skills and expand my knowledge.
@@ -56,22 +37,6 @@
   </p>
 </p>
 <br/>
-
-```js
-const Nahuel Ordoñez = {
-  pronouns: 'he',
-  code: {
-    languages: [ "JavaScript"],
-    database: [ "MongoDB", "PostgreSQL" ],
-    backEnd: [ "NodeJs", "Express", "Sequelize"],
-    frontEnd: [ "React", "Redux", "Hooks", "Material UI", "CSS modules" ],
-    inProgress: [ "Python", "Java", "TypeScript" , "docker"]
-  },
-  contact: {
-    email: "nahuelo841@gmail.com"
-  }
-};
-```  
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
