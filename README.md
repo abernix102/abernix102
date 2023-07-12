@@ -1,24 +1,28 @@
 
-<h1 align="center">¡Hey 👋! Nahuel Ordoñez👩🏻‍💻</h1>
+<h1 align="center">¡Hey 👋! Nahuel Ordoñez👨‍💻</h1>
 <h3 align="center">Buenos Aires, Argentina🌎</h3><br/> 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a4/36/71/a4367195fa2db9193798cf2b27b96357.gif" alt="Nahuel Ordoñez" style="width: 100%;">
+  <img src="https://user-images.githubusercontent.com/91504510/252868517-140ae8e5-0d08-4197-98fe-d4f8bc2c1e56.jpg" alt="Nahuel Ordoñez" style="width: 100%;">
 </p>
 
 
-
+<div align="center">
+<a href="https://github.com/https://github.com/pulkit-30" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/abernix102" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
+<br/>
+<br/>  
 
 
 <h2>Sobre mi</h2>
 <p>
   Soy una persona apasionada por el aprendizaje, sobre todo lo que implica desafíos de lógica. Por eso mismo, decidí integrarme en el mundo del Desarrollo y aunque mi formación es como Full Stack, tengo una preferencia hacia el área de Front-End. Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas para poder desarrollar aún más mis habilidades e incrementar mis conocimientos.
   
-  <br/>
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
-- 👾 a **student** working his way around things
-  <br/>
   <h4>Me gusta</h4>
   <p>
     -El frío ❄ <br/>
@@ -29,51 +33,60 @@
   <p>
     -Sudoku ⌛ <br/>
     -Ajedrez ♟ <br/>
-    -Tejer 🧶
+    -Guitarra 🎸
   </p>
 </p>
 <br/>
 
+<h2>About me</h2>
+<p>
+  I am a passionate learner, especially when it comes to logic challenges. That's why I decided to immerse myself in the world of Development, and although my background is in Full Stack, I have a preference for Front-End. Currently, I continue to educate myself on new technologies in both areas to further develop my skills and expand my knowledge.
+  
+  <h4>Interests</h4>
+  <p>
+    -Cold weather ❄ <br/>
+    -Mate (traditional South American drink) 🧉 <br/>
+    -Reading 📚
+  </p>
+  <h4>Hobbies</h4>
+  <p>
+    -Sudoku ⌛ <br/>
+    -Chess ♟ <br/>
+    -Guitar 🎸
+  </p>
+</p>
+<br/>
 
 ```js
-const Daiana215 = {
-  pronouns: 'she' || 'her',
+const Nahuel Ordoñez = {
+  pronouns: 'he',
   code: {
-    languages: [ "JavaScript", "TypeScript" ],
+    languages: [ "JavaScript"],
     database: [ "MongoDB", "PostgreSQL" ],
-    backEnd: [ "NodeJs", "Express", "Sequelize", "Typegoose", "Mongoose" ],
+    backEnd: [ "NodeJs", "Express", "Sequelize"],
     frontEnd: [ "React", "Redux", "Hooks", "Material UI", "CSS modules" ],
-    inProgress: [ "Python", "CiberSecurity" ]
+    inProgress: [ "Python", "Java", "TypeScript" , "docker"]
   },
   contact: {
-    email: "daiana_agustina@outlook.com"
+    email: "nahuelo841@gmail.com"
   }
 };
-```
-
-<h3 align="left">Conecta conmigo! :</h3>
-<p align="left">
-<a href="https://linkedin.com/in/daiana-grillia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daiana-grillia" height="30" width="40" /></a>
+```  
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,webpack,css,discord,express,py,figma,github,html,java,js,mongodb,nextjs,nodejs,postman,sequelize,postgres,react,redux,tailwind,ts,vscode&perline=14" />
+  </a>
 </p>
+</br>
 
 
+*abernix201/abernix201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h3 align="center">Soporte:</h3>
-<div align="center">  <p><a href="https://www.buymeacoffee.com/akuma215"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="(https://www.buymeacoffee.com/akuma215)" /></a></p><br><br>
-  
-  <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-<!--
-**Daiana215/Daiana215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
