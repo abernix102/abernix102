@@ -18,8 +18,6 @@
 </a>
 </div>  
 <br/>
-<br/>  
-
 
 <h2>Sobre mi</h2>
 <p>
