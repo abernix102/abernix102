@@ -83,7 +83,7 @@ const Nahuel Ordoñez = {
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,webpack,css,discord,express,py,figma,github,html,java,js,mongodb,nextjs,nodejs,postman,sequelize,postgres,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,webpack,css,discord,express,py,figma,github,html,java,js,nodejs,postman,sequelize,postgres,react,redux,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 </br>
