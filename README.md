@@ -6,13 +6,13 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO-REAL/" target="_blank">
+  <a href="www.linkedin.com/in/nahuel-ordonezz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="mailto:nahuelo841@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
-  <a href="https://TU-PORTFOLIO-SI-TIENES.com">
+  <a href="https://portafolio-beta-five.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="website"/>
   </a>
 </div>
