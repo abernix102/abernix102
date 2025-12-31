@@ -43,11 +43,3 @@ Aunque mi especialidad es el Front-End, cuento con una **base sólida en Backend
 
 ---
 
-## 📊 Actividad en GitHub
-
-<div align="center">
-  <a href="https://github.com/abernix201">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abernix201&layout=compact&theme=tokyonight&langs_count=8"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abernix201&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
