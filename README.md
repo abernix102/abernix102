@@ -1,56 +1,48 @@
-<h1 align="center">¡Hey 👋! Nahuel Ordoñez👨‍💻</h1>
-<h3 align="center">Buenos Aires, Argentina🌎</h3><br/> 
+<h1 align="center">Hola, soy Nahuel Ordoñez 👋</h1>
+<h3 align="center">Backend Developer | Node.js & MongoDB Specialist</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91504510/252868517-140ae8e5-0d08-4197-98fe-d4f8bc2c1e56.jpg" alt="Nahuel Ordoñez" style="width: 100%;">
+  <em>Construyendo arquitecturas escalables y soluciones lógicas eficientes.</em>
 </p>
 
 <div align="center">
-<a href="https://github.com/https://github.com/pulkit-30" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/abernix102" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://nahuelo841@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
-</a>
-</div>  
+  <a href="https://www.linkedin.com/in/TU_USUARIO_REAL/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="mailto:nahuelo841@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+</div>
+
 <br/>
 
-<h2>About me</h2>
-<p>
-  I am a passionate learner, especially when it comes to logic challenges. That's why I decided to immerse myself in the world of Development, and although my background is in Full Stack, I have a preference for Front-End. Currently, I continue to educate myself on new technologies in both areas to further develop my skills and expand my knowledge.
-  
-  <h4>Interests</h4>
-  <p>
-    -Cold weather ❄ <br/>
-    -Mate (traditional South American drink) 🧉 <br/>
-    -Reading 📚
-  </p>
-  <h4>Hobbies</h4>
-  <p>
-    -Sudoku ⌛ <br/>
-    -Chess ♟ <br/>
-    -Guitar 🎸
-  </p>
-</p>
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,webpack,css,discord,express,py,figma,github,html,js,nodejs,postman,sequelize,postgres,react,redux,tailwind,ts,vscode&perline=14" />
+## 👨‍💻 Sobre mí
+
+Desarrollador enfocado en el ecosistema **Backend (Node.js, Express, MongoDB)** con un sólido background en **Full Stack**. Me apasiona la lógica de programación y la optimización de servidores, utilizando mi experiencia en Frontend para facilitar la integración y comunicación entre equipos.
+
+* 🔭 Actualmente trabajando en: **Arquitecturas RESTful y bases de datos NoSQL.**
+* 🌱 Aprendiendo: **Microservicios y Docker.**
+* ♟️ Hobby: El **Ajedrez** y la lógica (¡desafíame a una partida!).
+
+---
+
+## 🛠️ Tech Stack
+
+**Core Backend & Database:**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sequelize,ts,python&perline=10" />
+
+**Frontend & Tools:**
+<br>
+<img src="https://skillicons.dev/icons?i=react,redux,js,git,github,postman,vscode,bash&perline=10" />
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/abernix201">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abernix201&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abernix201&layout=compact&theme=tokyonight"/>
   </a>
-</p>
-</br>
-</br>
-
-
-*abernix201/abernix201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+</div>
